@@ -1,3 +1,12 @@
+> **Team project, FTW Data Engineering cohort**
+>
+> ### My contributions
+> - **Cleaning (Silver):** Cleaned student assessment tables
+> - **Modeling (Gold):** Created the star schema, designed Gold dimension tables `dim_student` and `dim_date` for the star schema
+> - **Analysis:** Analyzed the relationship between student engagement and academic performance
+>
+> 🔗 [My pull requests](https://github.com/Lvzxc/oulad-pipeline/pulls?q=is:pr+author:triciakieth)
+
 # OULAD Data Warehouse and Analytics Pipeline
 
 An end-to-end data engineering project using the **Open University Learning Analytics Dataset (OULAD)** to transform raw learning data into a structured analytical data warehouse and generate insights into student engagement, assessment performance, withdrawal, and course activity.
